@@ -1,0 +1,6 @@
+{
+  "name": "Dream School Finder",
+  "description": "An interactive college matching and advisory platform for high school students to discover schools, analyze personal fit, and organize applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
